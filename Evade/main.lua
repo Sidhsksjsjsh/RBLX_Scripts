@@ -1,4 +1,4 @@
--- [[ HamstaGang on V3RM | Last updated 08/29/2022 ]] --
+-- [[k HamstaGang on V3RM | Last updated 08/29/2022 ]] --
 
 -- Wait for game to load
 repeat task.wait() until game:IsLoaded();
